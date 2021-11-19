@@ -1,0 +1,33 @@
+/*
+/
+.contenedor{
+    width:960px;
+    margin:auto;
+}
+https://getbootstrap.com/docs/4.0/components/card/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 2px solid #000000;
+    background-color: #faf6f6;
+  }
+  
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: rgb(138, 136, 136);
+  }
+  li:last-child {
+    border-right: none;
+  }
+  
